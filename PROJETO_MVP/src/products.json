@@ -1,0 +1,35 @@
+{
+    "show": [
+        {
+            "id": 1,
+            "title": "Show de Música Eletrônica",
+            "price": 349.99,
+            "image": ["https://i1.sndcdn.com/avatars-umwDbEUozuru7ScT-LyD57A-t240x240.jpg"]
+        },
+        {
+            "id": 2,
+            "title": "Show de Funk",
+            "price": 124.99,
+            "image": [
+                "https://viberatecdn.blob.core.windows.net/entity/artist/ike-sobera-DcWh9"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Show de Música Eletrônica com Funk",
+            "price": 500.00,
+            "image": [
+                "https://i.scdn.co/image/ab67616d00001e0253af7ae2b1ffbc97c69c787c"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Álbum exclusivo",
+            "price": 999.99,
+            "image": [
+                "https://source.boomplaymusic.com/group10/M00/04/24/b77a3dcb15594d7ca9f1f42138553f85_464_464.jpg"
+            ]
+        }
+
+    ]
+}
